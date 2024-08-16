@@ -1,0 +1,34 @@
+REMARK   4 XXXX COMPLIES WITH FORMAT V. 2.0
+ATOM      5  HN  UNK N   1      23.562 -10.151  -5.687  1.00  0.00      4c1m H  
+TER       6      UNK N   1 
+HETATM    1  O   UNK N   1      23.357 -10.914 -10.604  0.00  0.00      4c1m O  
+HETATM    2  N   UNK N   1      21.853 -11.987  -6.364  0.00  0.00      4c1m N  
+HETATM    3  N   UNK N   1      22.637 -11.419  -8.557  0.00  0.00      4c1m N  
+HETATM    4  N   UNK N   1      23.536 -10.296  -6.696  0.00  0.00      4c1m N  
+HETATM    6  C   UNK N   1      22.686 -11.219  -7.213  0.00  0.00      4c1m C  
+HETATM    7  C   UNK N   1      24.353  -9.762  -8.886  0.00  0.00      4c1m C  
+HETATM    8  C   UNK N   1      23.449 -10.716  -9.406  0.00  0.00      4c1m C  
+HETATM    9  C   UNK N   1      24.352  -9.564  -7.495  0.00  0.00      4c1m C  
+HETATM   10  H   UNK N   1      21.203 -12.664  -6.792  0.00  0.00      4c1m H  
+HETATM   11  H   UNK N   1      21.974 -12.125  -8.949  0.00  0.00      4c1m H  
+HETATM   12  C   UNK N   1      21.959 -11.910  -4.922  0.00  0.00      4c1m C  
+HETATM   13  C   UNK N   1      21.237 -13.078  -4.314  0.00  0.00      4c1m C  
+HETATM   14  C   UNK N   1      20.835 -13.027  -2.972  0.00  0.00      4c1m C  
+HETATM   15  C   UNK N   1      20.130 -14.098  -2.400  0.00  0.00      4c1m C  
+HETATM   16  C   UNK N   1      19.813 -15.213  -3.195  0.00  0.00      4c1m C  
+HETATM   17  C   UNK N   1      20.202 -15.266  -4.545  0.00  0.00      4c1m C  
+HETATM   18  C   UNK N   1      20.926 -14.198  -5.094  0.00  0.00      4c1m C  
+HETATM   19  C   UNK N   1      19.704 -14.068  -0.952  0.00  0.00      4c1m C  
+HETATM   20  F   UNK N   1      20.342 -13.060  -0.247  0.00  0.00      4c1m F  
+HETATM   21  F   UNK N   1      18.339 -13.862  -0.875  0.00  0.00      4c1m F  
+HETATM   22  F   UNK N   1      20.013 -15.278  -0.358  0.00  0.00      4c1m F  
+HETATM   23  C   UNK N   1      19.825 -16.461  -5.385  0.00  0.00      4c1m C  
+HETATM   24  F   UNK N   1      20.861 -17.377  -5.368  0.00  0.00      4c1m F  
+HETATM   25  F   UNK N   1      19.598 -16.059  -6.687  0.00  0.00      4c1m F  
+HETATM   26  F   UNK N   1      18.684 -17.086  -4.911  0.00  0.00      4c1m F  
+HETATM   27  C   UNK N   1      25.303  -8.959  -9.728  0.00  0.00      4c1m C  
+HETATM   28  O   UNK N   1      25.927  -8.047  -9.205  0.00  0.00      4c1m O  
+HETATM   29  N   UNK N   1      25.528  -9.245 -11.039  0.00  0.00      4c1m N  
+HETATM   30  H   UNK N   1      25.086 -10.049 -11.499  0.00  0.00      4c1m H  
+HETATM   31  O   UNK N   1      26.407  -8.518 -11.746  0.00  0.00      4c1m O  
+HETATM   32  H   UNK N   1      26.630  -9.083 -12.531  0.00  0.00      4c1m H  
